@@ -55,3 +55,8 @@ p, footer {
   bottom: 0px;
   right: 0px;
 }
+
+.container img{
+    max-width:300px;
+    width: auto;
+}
