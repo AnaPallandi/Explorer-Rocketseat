@@ -1,4 +1,4 @@
-# Explorer-Rocketseat
+# 🚀 Explorer-Rocketseat
 Projetos realizados durante o curso Explorer da Rocketseat 
 
 ## Sumário
@@ -6,9 +6,10 @@ Projetos realizados durante o curso Explorer da Rocketseat
 2. [Site Treine.me](#2-site-treineme)
 3. [Formulário de Eventos](#3-formulário-de-eventos)
 4. [Site Responsivo](#4-site-responsivo)
+5. [Componentes Animados Catioríneos](#5-componentes-animados-catioríneos)
 
 ## 1. Site Móveis Customizados
-<h2> Tecnologias </h2>
+<h2>🔨Tecnologias </h2>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -17,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-<h2>Aprendizados </h2>
+<h2>💡Aprendizados </h2>
 
 Meus principais aprendizados no decorrer do desenvolvimento desse projeto foram: 
 
@@ -42,7 +43,7 @@ Meus principais aprendizados no decorrer do desenvolvimento desse projeto foram:
 
 ## 2. Site Treineme
 
-<h2> Tecnologias </h2>
+<h2>🔨 Tecnologias </h2>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -50,7 +51,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-<h2>Aprendizados </h2>
+<h2>💡Aprendizados </h2>
 
 Meus principais aprendizados no decorrer do desenvolvimento desse projeto foram: 
 
@@ -69,7 +70,7 @@ Meus principais aprendizados no decorrer do desenvolvimento desse projeto foram:
 
 ## 3. Formulário de Eventos
 
-<h2> Tecnologias </h2>
+<h2>🔨Tecnologias </h2>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -77,7 +78,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-<h2>Aprendizados </h2>
+<h2>💡Aprendizados </h2>
 
 Meus principais aprendizados no decorrer do desenvolvimento desse projeto foram: 
 
@@ -102,7 +103,7 @@ Meus principais aprendizados no decorrer do desenvolvimento desse projeto foram:
 
 ## 4. Site Responsivo
 
-<h2> Tecnologias </h2>
+<h2> 🔨Tecnologias </h2>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -110,7 +111,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-<h2>Aprendizados </h2>
+<h2>💡Aprendizados </h2>
 
 Meus principais aprendizados no decorrer do desenvolvimento desse projeto foram: 
 
@@ -123,5 +124,28 @@ Utilizar preferencialmente unidades de medida relativas para garantir acessibili
 <h4>CSS</h4>
 
 - Utilização da pseudoclass :root para auxiliar no cálculo proporcional das unidades de medida relativas do projeto
-- Uso de media queries para ajuste do tamanho e comportamento dos elementos na tela
+- Uso de at-rule media queries para ajuste do tamanho e comportamento dos elementos na tela
 
+## 5. Componentes Animados Catioríneos
+
+<h2>🔨Tecnologias </h2>
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+
+- HTML e CSS
+- Git e Github
+- Figma
+
+<h2>💡Aprendizados </h2>
+
+Meus principais aprendizados no decorrer do desenvolvimento desse projeto foram: 
+
+<h4>CSS</h4>
+
+- Uso de variáveis no CSS no :root para criar padronização no projeto e facilitar eventuais mudanças (cores, fontes, etc)
+- Aplicação da função (--hue) no CSS, para alterar as cores de forma homogênea e distribuida
+- Técnicas para ajustar imagens e evitar o overflow utilizando propriedade object-fit
+- TRANSIÇÕES: uso da propriedade transform, transition, delay e manipulação das curvas de bezier
+- ANIMAÇÕES: at-rule @keyframe para movimentar componentes no eixo X e Y com uso das propriedades translate e opacity
+⚠ Após o término da animação, o componente retorna ao estado inicial, portanto para evitar efeito piscante, podemos adicionar propriedade backwards
